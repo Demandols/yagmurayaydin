@@ -9,3 +9,7 @@ header_pages:
 author: Yağmur Ayaydın
 github_username: fablemist
 show_excerpts: true
+header_pages:
+  - index.md
+  - about.md
+
