@@ -1,9 +1,9 @@
 title: Yağmur Ayaydın / Animation and Art Portfolio
-description: Art, process, and tutorials
+description: Artist • Indie Game Dev • Animator
 theme: minima
 header_pages:
   - about.md
   - portfolio.md layout: page
-author: Your Name
+author: Yağmur Ayaydın
 github_username: your-github-username
 show_excerpts: true
