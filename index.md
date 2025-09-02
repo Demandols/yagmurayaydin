@@ -1,8 +1,8 @@
 ---
-layout: home
 title: Home
+layout: default
 ---
 
-<link rel="stylesheet" href="/assets/css/custom.css">
+# Welcome to My Portfolio
+This is my landing page!
 
-Welcome! This site is built with **Jekyll** on **GitHub Pages**.
