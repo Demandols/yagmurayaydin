@@ -1,0 +1,8 @@
+title: Your Portfolio
+description: Art, process, and tutorials
+theme: minima
+header_pages:
+  - about.md
+author: Your Name
+github_username: your-github-username
+show_excerpts: true
