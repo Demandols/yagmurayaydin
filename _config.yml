@@ -5,5 +5,5 @@ header_pages:
   - about.md
   - portfolio.md layout: page
 author: Yağmur Ayaydın
-github_username: your-github-username
+github_username: fablemist
 show_excerpts: true
