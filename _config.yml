@@ -1,8 +1,9 @@
-title: Your Portfolio
+title: Yağmur Ayaydın / Animation and Art Portfolio
 description: Art, process, and tutorials
 theme: minima
 header_pages:
   - about.md
+  - portfolio.md layout: page
 author: Your Name
 github_username: your-github-username
 show_excerpts: true
