@@ -1,13 +1,15 @@
-title: Yağmur Ayaydın / Animation and Art Portfolio
-description: Artist • Indie Game Dev • Animator
+title: "Yağmur Ayaydın / Animation and Art Portfolio"
+description: "Artist • Indie Game Dev • Animator"
 theme: minima
+
 sass:
   style: compressed
-header_pages:
+
 header_pages:
   - index.md
   - about.md
-  - portfolio.md layout: page
-author: Yağmur Ayaydın
+  - portfolio.md
+
+author: "Yağmur Ayaydın"
 github_username: fablemist
 show_excerpts: true
