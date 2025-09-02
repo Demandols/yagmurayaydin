@@ -17,15 +17,17 @@
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
     <nav class="site-nav">
       <ul>
-        {% for page in site.pages %}
-          {% if page.title %}
-            <li><a href="{{ page.url | relative_url }}">{{ page.title }}</a></li>
+        {% for page in site.header_pages %}
+          {% assign page_obj = site.pages | where: "path", page | first %}
+          {% if page_obj %}
+            <li><a href="{{ page_obj.url | relative_url }}">{{ page_obj.title | escape }}</a></li>
           {% endif %}
         {% endfor %}
       </ul>
     </nav>
   </div>
 </header>
+
 
 
     <main class="page-content" aria-label="Content">
