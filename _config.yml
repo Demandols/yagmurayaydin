@@ -4,9 +4,6 @@ theme: minima
 header_pages:
   - about.md
   - portfolio.md layout: page
-  header_pages:
-  - about.md
-  - portfolio.md
 author: Yağmur Ayaydın
 github_username: fablemist
 show_excerpts: true
