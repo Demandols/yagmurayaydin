@@ -4,11 +4,10 @@ theme: minima
 sass:
   style: compressed
 header_pages:
+header_pages:
+  - index.md
   - about.md
   - portfolio.md layout: page
 author: Yağmur Ayaydın
 github_username: fablemist
 show_excerpts: true
-header_pages:
-  - index.md
-  - about.md
