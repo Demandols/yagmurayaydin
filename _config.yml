@@ -1,6 +1,8 @@
 title: Yağmur Ayaydın / Animation and Art Portfolio
 description: Artist • Indie Game Dev • Animator
 theme: minima
+sass:
+  style: compressed
 header_pages:
   - about.md
   - portfolio.md layout: page
